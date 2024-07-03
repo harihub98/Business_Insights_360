@@ -182,7 +182,8 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Home.png" class="center">
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Finance.png" class="center">
+
 ## Sales View
 
 <img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Finance.png" class="center">
@@ -190,6 +191,7 @@ In Home view, all the views button will be available. User will land on specific
 ## Marketing View
 
 <img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Marketting.png" class="center">
+
 ## Supply chain View
 
 <img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Supply%20Chain.png" class="center">

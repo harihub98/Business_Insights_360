@@ -158,7 +158,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -177,38 +177,33 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Home.png" class="center">
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Home.png" class="center">
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Finance.png" class="center">
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Marketting.png" class="center">
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Supply%20Chain.png" class="center">
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Executive.png" class="center">
 
-## Products
+## Info Page
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Info.png" class="center">
+## Support Page
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Support.png" class="center">
 
 
 ## Project Outcome

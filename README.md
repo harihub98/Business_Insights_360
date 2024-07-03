@@ -186,7 +186,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Finance.png" class="center">
+<img src="https://github.com/harihub98/Business_Insights_360/blob/main/Resources/Sales.png" class="center">
 
 ## Marketing View
 

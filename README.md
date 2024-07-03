@@ -5,7 +5,7 @@ This project is hoped to give answers to the critical questions of stakeholder i
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-[Live Report Link]([https://www.novypro.com/project/atliq-hardware-business-insights-360](https://app.powerbi.com/groups/me/reports/d46b2e7a-24b7-43d3-8b33-641ac82f38e0/ReportSection9275feb00c2e013d8906?experience=power-bi))
+Link to [Live Dashboard](https://app.powerbi.com/groups/me/reports/d46b2e7a-24b7-43d3-8b33-641ac82f38e0/ReportSection9275feb00c2e013d8906?experience=power-bi)
 
 ## Tech stacks
 
